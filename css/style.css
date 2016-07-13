@@ -1,0 +1,468 @@
+a img.x{
+float: right;
+margin-right: -44px;
+margin-top:-44px;
+
+
+}
+    
+div#load_screen{
+	background: #00a2e3;
+	opacity: 1;
+	position: fixed;
+    z-index:9999;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+div#load_screen > div#loading{
+	color:#FFF;
+	text-align: center;
+	z-index:9999;
+}
+html,
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    color: #555;
+    background-color: #00a2e3;
+    
+}
+
+.container
+{
+    height: 100%;
+    
+}
+
+
+h1,
+h2,
+h3
+{
+    color: #238acb;
+}
+
+h3
+{
+    margin: 10px 0;
+}
+
+a
+{
+    color: #238acb;
+}
+
+a img
+{
+    border: none;
+}
+
+pre
+{
+    color: white;
+    padding: 10px;
+    background: #646464;
+}
+
+.header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 92px;
+    width: 100%;
+    overflow: hidden;
+    background: e21f21;
+    z-index: 9000;
+}
+
+.horizon
+{
+    line-height: 0;
+    z-index: 2000;
+    width: 8000px;
+}
+
+.middle
+{
+    z-index: 2500;
+    line-height: 0;
+    width: 10000px;
+}
+
+.struik
+{
+    z-index: 3000;
+    line-height: 0;
+    width: 14477px;
+}
+.s{
+z-index: 5000;
+}
+.gameboy
+{
+    z-index: 3500;
+    width: 14477px;
+}
+
+.imac
+{
+    z-index: 4000;
+    width: 14477px;
+}
+
+.tv
+{
+    z-index: 4500;
+    width: 14477px;
+}
+
+.header .logo
+{
+    float: right;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+
+.rapper
+{
+    z-index: 5000;
+    width: 14477px;
+}
+
+.piano
+{
+    z-index: 5500;
+    width: 14477px;
+}
+
+.wall
+{
+    z-index: 6000;
+    width: 14477px;
+}
+
+.wall2
+{
+    z-index: 6500;
+    width: 14477px;
+}
+
+.wall3
+{
+    z-index: 7000;
+    width: 14477px;
+}
+.wall4
+{
+    z-index: 7500;
+    width: 14477px;
+}
+
+.wall5
+{
+    z-index: 8000;
+    width: 14477px;
+}
+ 
+
+.man
+{
+    z-index: 8500;
+    line-height: 0;
+    width: 14477px;
+}
+
+.front
+{
+    z-index: 2100;
+    top: 1%;
+    width: 10000px;
+}
+
+.gameboy2
+{
+    position: absolute;
+left: 2028px;
+bottom: 0px;
+
+}
+
+
+
+.imac2
+{
+    position: absolute;
+left: 3424px;
+bottom: 0px;
+
+}
+
+
+
+.tv2
+{
+    position: absolute;
+left: 5351px;
+bottom: 0px;
+
+}
+
+
+
+.rapper2
+{
+    position: absolute;
+left: 9690px;
+bottom: 60px;
+
+}
+
+
+
+.piano2
+{
+    position: absolute;
+left: 11310px;
+bottom: 60px;
+
+}
+
+
+
+.wall12
+{
+    position: absolute;
+left: 7400px;
+bottom: 330px;
+}
+
+
+
+.wall22
+{
+    position: absolute;
+left: 7650px;
+bottom: 330px;
+
+}
+
+
+
+.wall32
+{
+    position: absolute;
+left: 7400px;
+bottom: 110px;
+
+}
+
+
+.wall42
+{
+    position: absolute;
+left: 7900px;
+bottom: 110px;
+
+}
+
+
+.wall52
+{
+    position: absolute;
+left: 7910px;
+bottom: 440px;
+
+}
+
+
+.contact1
+{
+    z-index: 8000;
+    width: 14477px;
+}
+.contact
+{
+   position: absolute;
+left: 13000px;
+bottom: 160px;
+background: #e21f21;
+width: 500px;
+padding:25px;
+border-radius: 15px
+
+}
+
+.contact2
+{
+    z-index: 8000;
+    width: 14477px;
+}
+
+.contact3
+{
+   position: absolute;
+left: 13000px;
+bottom: 670px;
+padding:20px
+
+}
+
+.social
+{
+    z-index: 8000;
+    width: 14477px;
+}
+
+.fb
+{
+   
+position: absolute;
+left: 14250px;
+bottom: 0px;
+padding-left:120px;
+    padding-bottom:125px;
+}
+.twitter
+{
+   position: absolute;
+left: 14250px;
+bottom: 130px;
+    padding-left:120px;
+    padding-bottom:125px;
+}
+.linkedin
+{
+   position: absolute;
+left: 14250px;
+bottom: 260px;
+    padding-left:120px;
+    padding-bottom:125px;
+}
+
+.logo
+{
+   position: absolute;
+left: 14250px;
+bottom: 380px;
+    padding-bottom:125px;
+    padding-left:125px;
+
+}
+
+
+
+.intro
+{
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    padding-right: 50px;
+}
+
+.description
+{
+    left: 1500px;
+}
+
+.page
+{
+    top: 0px;
+    width: 500px;
+    background: white;
+    padding: 10px 30px;
+    border: 1px #eee solid;
+    position: absolute;
+}
+
+
+
+.documentation
+{
+    left: 2450px;
+    width: 700px;
+}
+
+.options
+{
+    width: 700px;
+    left: 3800px;
+}
+
+.download
+{
+    width: 500px;
+    left: 5100px;
+}
+
+.license
+{
+    padding: 100px 30px 30px 30px;
+}
+
+.sprite {
+	width: 204px;
+	height: 296px;
+	line-height: 0;
+	position: fixed;
+	left:50%;
+	bottom: 0%;
+}
+
+
+
+.right {
+	background-image: url('../images/animatie/staanrechts3.png');
+}
+
+.left {
+	background-image: url('../images/animatie/staanlinks3.png');
+}
+
+.walk-right {
+	background-image: url('../images/animatie/wandelrechts3.png');
+	-webkit-animation: walk .9s steps(6) infinite;
+	-moz-animation: walk .9s steps(6) infinite;
+	-ms-animation: walk .9s steps(6) infinite;
+	-o-animation: walk .9s steps(6) infinite;
+	animation: walk .9s steps(6) infinite;
+}
+
+.walk-left {
+	background-image: url('../images/animatie/wandellinks3.png');
+	-webkit-animation: walk .9s steps(6) infinite;
+	-moz-animation: walk .9s steps(6) infinite;
+	-ms-animation: walk .9s steps(6) infinite;
+	-o-animation: walk .9s steps(6) infinite;
+	animation: walk .9s steps(6) infinite;
+}
+
+@-webkit-keyframes walk {
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
+@-moz-keyframes walk {
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
+@-ms-keyframes walk {
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
+@-o-keyframes walk {
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
+
+@-keyframes walk {
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
+	from { background-position: 0px; }
+	to { background-position: -1224px; }
+}
